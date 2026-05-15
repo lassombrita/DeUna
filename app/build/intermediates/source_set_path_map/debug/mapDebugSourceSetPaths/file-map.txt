@@ -1,0 +1,73 @@
+com.servicios.app-jetified-savedstate-1.2.1-0 C:\Users\merej\.gradle\caches\9.0.0\transforms\02bd1a867b674b8cde46912ebaaa2664\transformed\jetified-savedstate-1.2.1\res
+com.servicios.app-jetified-material-icons-extended-release-1 C:\Users\merej\.gradle\caches\9.0.0\transforms\0337baf468416b84fd4501c5d5964b57\transformed\jetified-material-icons-extended-release\res
+com.servicios.app-jetified-lifecycle-livedata-core-ktx-2.8.6-2 C:\Users\merej\.gradle\caches\9.0.0\transforms\044d131626b9e4f7c72148dd8a0ba6c9\transformed\jetified-lifecycle-livedata-core-ktx-2.8.6\res
+com.servicios.app-jetified-animation-release-3 C:\Users\merej\.gradle\caches\9.0.0\transforms\04bc9cb7526d05a534add5c9d0cdf2a0\transformed\jetified-animation-release\res
+com.servicios.app-navigation-runtime-ktx-2.8.3-4 C:\Users\merej\.gradle\caches\9.0.0\transforms\066520655d39c60403c1dc386337e545\transformed\navigation-runtime-ktx-2.8.3\res
+com.servicios.app-lifecycle-livedata-2.8.6-5 C:\Users\merej\.gradle\caches\9.0.0\transforms\07bf25ba4b974698c08191fbef28814a\transformed\lifecycle-livedata-2.8.6\res
+com.servicios.app-jetified-hilt-navigation-1.2.0-6 C:\Users\merej\.gradle\caches\9.0.0\transforms\0fd175ff3c41fe41d2b9492bea72ca3a\transformed\jetified-hilt-navigation-1.2.0\res
+com.servicios.app-jetified-material-icons-core-release-7 C:\Users\merej\.gradle\caches\9.0.0\transforms\1919630fbb15a9c4ae3314d1e1b701e5\transformed\jetified-material-icons-core-release\res
+com.servicios.app-jetified-activity-1.9.3-8 C:\Users\merej\.gradle\caches\9.0.0\transforms\1fdc9aa75858fd7a02a42eeb901df735\transformed\jetified-activity-1.9.3\res
+com.servicios.app-jetified-profileinstaller-1.3.1-9 C:\Users\merej\.gradle\caches\9.0.0\transforms\213dcf3dc99eba79663509699de24254\transformed\jetified-profileinstaller-1.3.1\res
+com.servicios.app-jetified-ui-tooling-release-10 C:\Users\merej\.gradle\caches\9.0.0\transforms\24e120772cdf31a0cd3e8ba1a62b7657\transformed\jetified-ui-tooling-release\res
+com.servicios.app-core-1.13.1-11 C:\Users\merej\.gradle\caches\9.0.0\transforms\27d0cd7a8db318ef3c2309cf9f7ae9ea\transformed\core-1.13.1\res
+com.servicios.app-jetified-lifecycle-runtime-release-12 C:\Users\merej\.gradle\caches\9.0.0\transforms\288cbfb925e02d22ca6b1bbbbde2df38\transformed\jetified-lifecycle-runtime-release\res
+com.servicios.app-jetified-ui-geometry-release-13 C:\Users\merej\.gradle\caches\9.0.0\transforms\29f8a1378dc56803117c7e34e72dca61\transformed\jetified-ui-geometry-release\res
+com.servicios.app-jetified-ui-tooling-data-release-14 C:\Users\merej\.gradle\caches\9.0.0\transforms\2c37f58e2d846feae1193bec23d7f98a\transformed\jetified-ui-tooling-data-release\res
+com.servicios.app-jetified-runtime-saveable-release-15 C:\Users\merej\.gradle\caches\9.0.0\transforms\2da0d03b730483571803d49147b9ae16\transformed\jetified-runtime-saveable-release\res
+com.servicios.app-cardview-1.0.0-16 C:\Users\merej\.gradle\caches\9.0.0\transforms\39216d2c9e43b4ef06e5f07cf6148bca\transformed\cardview-1.0.0\res
+com.servicios.app-fragment-1.5.1-17 C:\Users\merej\.gradle\caches\9.0.0\transforms\3e72d3533957b3f24af038770f6befbe\transformed\fragment-1.5.1\res
+com.servicios.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-18 C:\Users\merej\.gradle\caches\9.0.0\transforms\40cc6e5f9d9abf124b2f76676bd03acf\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
+com.servicios.app-navigation-common-ktx-2.8.3-19 C:\Users\merej\.gradle\caches\9.0.0\transforms\435dab1b91b95c3720ad96cdbea50ccb\transformed\navigation-common-ktx-2.8.3\res
+com.servicios.app-jetified-lifecycle-process-2.8.6-20 C:\Users\merej\.gradle\caches\9.0.0\transforms\43803dc8521a274a5f2fa55f8ad8a266\transformed\jetified-lifecycle-process-2.8.6\res
+com.servicios.app-jetified-customview-poolingcontainer-1.0.0-21 C:\Users\merej\.gradle\caches\9.0.0\transforms\4532d20b8b4cb62893f51bc3526e2dba\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.servicios.app-jetified-ui-util-release-22 C:\Users\merej\.gradle\caches\9.0.0\transforms\48afdb0365512a41f1645c3bff0ff16b\transformed\jetified-ui-util-release\res
+com.servicios.app-jetified-ui-graphics-release-23 C:\Users\merej\.gradle\caches\9.0.0\transforms\4c081e5efc3d47d6b86c4407c9e09b51\transformed\jetified-ui-graphics-release\res
+com.servicios.app-jetified-lifecycle-runtime-compose-release-24 C:\Users\merej\.gradle\caches\9.0.0\transforms\4ed66b1bdcfb12bd04ba52f2175a5734\transformed\jetified-lifecycle-runtime-compose-release\res
+com.servicios.app-material-1.12.0-25 C:\Users\merej\.gradle\caches\9.0.0\transforms\50676cab885c018cd92ebfe7fa130431\transformed\material-1.12.0\res
+com.servicios.app-jetified-material-release-26 C:\Users\merej\.gradle\caches\9.0.0\transforms\542dd97b817f1bcd71ae837669625941\transformed\jetified-material-release\res
+com.servicios.app-jetified-runtime-release-27 C:\Users\merej\.gradle\caches\9.0.0\transforms\57f31def2a0f1c46370e814b779cf60e\transformed\jetified-runtime-release\res
+com.servicios.app-jetified-ui-test-manifest-1.7.5-28 C:\Users\merej\.gradle\caches\9.0.0\transforms\5d07900902f34dc9ceb66413e167f2d8\transformed\jetified-ui-test-manifest-1.7.5\res
+com.servicios.app-navigation-common-2.8.3-29 C:\Users\merej\.gradle\caches\9.0.0\transforms\5fc63da7d6e9f038086b42bb002d973e\transformed\navigation-common-2.8.3\res
+com.servicios.app-jetified-foundation-layout-release-30 C:\Users\merej\.gradle\caches\9.0.0\transforms\62045ed702b2b52ce4c1ff6239ec167a\transformed\jetified-foundation-layout-release\res
+com.servicios.app-drawerlayout-1.1.1-31 C:\Users\merej\.gradle\caches\9.0.0\transforms\62cf7195b0780bb524cc11bc4a16169e\transformed\drawerlayout-1.1.1\res
+com.servicios.app-jetified-startup-runtime-1.1.1-32 C:\Users\merej\.gradle\caches\9.0.0\transforms\68002aa8f6baf015122291fba07c7446\transformed\jetified-startup-runtime-1.1.1\res
+com.servicios.app-jetified-lifecycle-viewmodel-ktx-2.8.6-33 C:\Users\merej\.gradle\caches\9.0.0\transforms\716e7d27591410dc8fac1701176e5bc1\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
+com.servicios.app-jetified-appcompat-resources-1.6.1-34 C:\Users\merej\.gradle\caches\9.0.0\transforms\791339d0d300f43fe90f28e4794e2181\transformed\jetified-appcompat-resources-1.6.1\res
+com.servicios.app-jetified-lifecycle-viewmodel-compose-release-35 C:\Users\merej\.gradle\caches\9.0.0\transforms\7ef0daac92e66df9ae1d19493c580b58\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.servicios.app-core-runtime-2.2.0-36 C:\Users\merej\.gradle\caches\9.0.0\transforms\8ca187931829f61f00b5cc5fe414a3cb\transformed\core-runtime-2.2.0\res
+com.servicios.app-jetified-ui-tooling-preview-release-37 C:\Users\merej\.gradle\caches\9.0.0\transforms\8cc8f396deec28d0723918c678c9776e\transformed\jetified-ui-tooling-preview-release\res
+com.servicios.app-jetified-material3-release-38 C:\Users\merej\.gradle\caches\9.0.0\transforms\94b35ee03556ed96a77e218c7848b53b\transformed\jetified-material3-release\res
+com.servicios.app-transition-1.5.0-39 C:\Users\merej\.gradle\caches\9.0.0\transforms\956532ccf8de15cd15c721c804e51377\transformed\transition-1.5.0\res
+com.servicios.app-jetified-lifecycle-runtime-ktx-release-40 C:\Users\merej\.gradle\caches\9.0.0\transforms\95a37b3d04987b340ffad6089a0e029c\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.servicios.app-constraintlayout-2.0.1-41 C:\Users\merej\.gradle\caches\9.0.0\transforms\96b3c4ef2a65f87b1ad081933a1575c4\transformed\constraintlayout-2.0.1\res
+com.servicios.app-jetified-graphics-path-1.0.1-42 C:\Users\merej\.gradle\caches\9.0.0\transforms\9dc76cf180bcea097d41b692903e2279\transformed\jetified-graphics-path-1.0.1\res
+com.servicios.app-jetified-annotation-experimental-1.4.1-43 C:\Users\merej\.gradle\caches\9.0.0\transforms\9e3caff013ffbd62c7fff58ed691efeb\transformed\jetified-annotation-experimental-1.4.1\res
+com.servicios.app-jetified-ui-text-release-44 C:\Users\merej\.gradle\caches\9.0.0\transforms\9f66e3a986490c7e4a5aae632421ee48\transformed\jetified-ui-text-release\res
+com.servicios.app-jetified-hilt-navigation-compose-1.2.0-45 C:\Users\merej\.gradle\caches\9.0.0\transforms\a030541744121ebfe83e87fa05b19101\transformed\jetified-hilt-navigation-compose-1.2.0\res
+com.servicios.app-coordinatorlayout-1.1.0-46 C:\Users\merej\.gradle\caches\9.0.0\transforms\a96c1d0488136f0720579dc2eeab6b51\transformed\coordinatorlayout-1.1.0\res
+com.servicios.app-jetified-navigation-compose-2.8.3-47 C:\Users\merej\.gradle\caches\9.0.0\transforms\add0ec0c77a1b20c9082e14304eac768\transformed\jetified-navigation-compose-2.8.3\res
+com.servicios.app-jetified-ui-release-48 C:\Users\merej\.gradle\caches\9.0.0\transforms\ae7faa8edd8624aa223b9284373963cf\transformed\jetified-ui-release\res
+com.servicios.app-jetified-activity-ktx-1.9.3-49 C:\Users\merej\.gradle\caches\9.0.0\transforms\b46ef057a4b77c19f4a2b6d9df212d78\transformed\jetified-activity-ktx-1.9.3\res
+com.servicios.app-jetified-foundation-release-50 C:\Users\merej\.gradle\caches\9.0.0\transforms\b4783e6be35b599b9eb257b219ffd84f\transformed\jetified-foundation-release\res
+com.servicios.app-jetified-emoji2-views-helper-1.3.0-51 C:\Users\merej\.gradle\caches\9.0.0\transforms\b6db4e5606bcb7ac121a9b64b1421d41\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.servicios.app-jetified-ui-unit-release-52 C:\Users\merej\.gradle\caches\9.0.0\transforms\b89c114b87b2f43542a8c60c03ac874d\transformed\jetified-ui-unit-release\res
+com.servicios.app-lifecycle-livedata-core-2.8.6-53 C:\Users\merej\.gradle\caches\9.0.0\transforms\b9557214bbded68298f13f2e4a3c3172\transformed\lifecycle-livedata-core-2.8.6\res
+com.servicios.app-jetified-lifecycle-viewmodel-release-54 C:\Users\merej\.gradle\caches\9.0.0\transforms\bc49d50648d0cd59a990e8984b8bdf3c\transformed\jetified-lifecycle-viewmodel-release\res
+com.servicios.app-recyclerview-1.1.0-55 C:\Users\merej\.gradle\caches\9.0.0\transforms\c59f40a77996d8c897b49a5cc90ce320\transformed\recyclerview-1.1.0\res
+com.servicios.app-jetified-savedstate-ktx-1.2.1-56 C:\Users\merej\.gradle\caches\9.0.0\transforms\d2274515054b5045379e1dfc593f4aff\transformed\jetified-savedstate-ktx-1.2.1\res
+com.servicios.app-jetified-viewpager2-1.0.0-57 C:\Users\merej\.gradle\caches\9.0.0\transforms\de26ad43cee9a948e964a78edb2d6c70\transformed\jetified-viewpager2-1.0.0\res
+com.servicios.app-navigation-runtime-2.8.3-58 C:\Users\merej\.gradle\caches\9.0.0\transforms\e0517b913a0486fb8f0541679bc6d902\transformed\navigation-runtime-2.8.3\res
+com.servicios.app-jetified-material-ripple-release-59 C:\Users\merej\.gradle\caches\9.0.0\transforms\e0efc3e79eb185686010fa043f28a404\transformed\jetified-material-ripple-release\res
+com.servicios.app-jetified-animation-core-release-60 C:\Users\merej\.gradle\caches\9.0.0\transforms\e302908388eb83c7e6a6ac3d4f30e81a\transformed\jetified-animation-core-release\res
+com.servicios.app-jetified-coil-base-2.7.0-61 C:\Users\merej\.gradle\caches\9.0.0\transforms\ee5626c02081c3ef41b5ccbfe2e656d6\transformed\jetified-coil-base-2.7.0\res
+com.servicios.app-jetified-core-ktx-1.13.1-62 C:\Users\merej\.gradle\caches\9.0.0\transforms\f3157e821d772548f2f7e3519f0ecd97\transformed\jetified-core-ktx-1.13.1\res
+com.servicios.app-jetified-emoji2-1.3.0-63 C:\Users\merej\.gradle\caches\9.0.0\transforms\f7b0c2ffdee5c7578d7253765902d7dc\transformed\jetified-emoji2-1.3.0\res
+com.servicios.app-appcompat-1.6.1-64 C:\Users\merej\.gradle\caches\9.0.0\transforms\fcd5b663616b4fa8cc69c94355613858\transformed\appcompat-1.6.1\res
+com.servicios.app-jetified-activity-compose-1.9.3-65 C:\Users\merej\.gradle\caches\9.0.0\transforms\fd3c3d30425fcec6a993cfda2aa3b161\transformed\jetified-activity-compose-1.9.3\res
+com.servicios.app-pngs-66 C:\Users\merej\OneDrive\Desktop\New folder\v3\app\build\generated\res\pngs\debug
+com.servicios.app-resValues-67 C:\Users\merej\OneDrive\Desktop\New folder\v3\app\build\generated\res\resValues\debug
+com.servicios.app-packageDebugResources-68 C:\Users\merej\OneDrive\Desktop\New folder\v3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.servicios.app-packageDebugResources-69 C:\Users\merej\OneDrive\Desktop\New folder\v3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.servicios.app-debug-70 C:\Users\merej\OneDrive\Desktop\New folder\v3\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.servicios.app-debug-71 C:\Users\merej\OneDrive\Desktop\New folder\v3\app\src\debug\res
+com.servicios.app-main-72 C:\Users\merej\OneDrive\Desktop\New folder\v3\app\src\main\res

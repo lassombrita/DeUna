@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.servicios.app.HomeViewModelTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-05-14T04:30:52.805Z" hostname="NEGRO" time="0.13">
+  <properties/>
+  <testcase name="estado inicial contiene ciudad Bogota Colombia" classname="com.servicios.app.HomeViewModelTest" time="0.107"/>
+  <testcase name="serviciosPopulares no incluye el boton Ver mas" classname="com.servicios.app.HomeViewModelTest" time="0.002"/>
+  <testcase name="serviciosPopulares tiene exactamente 3 elementos" classname="com.servicios.app.HomeViewModelTest" time="0.002"/>
+  <testcase name="el ultimo elemento del grid es Ver mas" classname="com.servicios.app.HomeViewModelTest" time="0.002"/>
+  <testcase name="busqueda esta vacia al inicio" classname="com.servicios.app.HomeViewModelTest" time="0.001"/>
+  <testcase name="serviciosPopulares tienen imageUrl no vacia" classname="com.servicios.app.HomeViewModelTest" time="0.006"/>
+  <testcase name="onBusquedaCambia actualiza el texto de busqueda" classname="com.servicios.app.HomeViewModelTest" time="0.001"/>
+  <testcase name="todas las categorias tienen id no vacio" classname="com.servicios.app.HomeViewModelTest" time="0.002"/>
+  <testcase name="categoriasGrid tiene exactamente 8 elementos" classname="com.servicios.app.HomeViewModelTest" time="0.001"/>
+  <testcase name="estado inicial contiene nombre de usuario Laura" classname="com.servicios.app.HomeViewModelTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

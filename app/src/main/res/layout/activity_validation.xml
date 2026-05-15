@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8FAFC">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ImageButton android:id="@+id/btnBack"
+            android:layout_width="40dp" android:layout_height="40dp"
+            android:src="@android:drawable/ic_menu_revert"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView android:id="@+id/tvTitle"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="16dp" android:text="Validación de Profesional"
+            android:textSize="20sp" android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@id/btnBack"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <LinearLayout android:id="@+id/layoutNiveles"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_marginTop="24dp" android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/tvTitle"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+            <Button android:id="@+id/btnNivel1" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="1" />
+            <Button android:id="@+id/btnNivel2" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="2" />
+            <Button android:id="@+id/btnNivel3" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="3" />
+        </LinearLayout>
+
+        <TextView android:id="@+id/tvNivelLabel"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="24dp" android:textStyle="bold" android:textSize="18sp"
+            app:layout_constraintTop_toBottomOf="@id/layoutNiveles"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView android:id="@+id/tvNivelDesc"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toBottomOf="@id/tvNivelLabel"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <Button android:id="@+id/btnSubirCedula"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="24dp" android:text="Subir Foto Cédula" />
+
+        <TextView android:id="@+id/tvCedulaFile"
+            android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+        <LinearLayout android:id="@+id/layoutNivel1Docs"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:visibility="gone">
+            <Button android:id="@+id/btnGrabarVideo" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Grabar Video Presentación" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/layoutNivel2Docs"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:visibility="gone">
+            <Button android:id="@+id/btnSubirCertificado" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Subir Certificado" />
+            <TextView android:id="@+id/tvCertificadoFile" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/layoutNivel3Docs"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:visibility="gone">
+            <Button android:id="@+id/btnSubirTitulo" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Subir Título Universitario" />
+            <TextView android:id="@+id/tvTituloFile" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <CheckBox android:id="@+id/cbAutorizo"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="24dp" android:text="Autorizo la verificación de mis datos" />
+
+        <Button android:id="@+id/btnEnviarRevision"
+            android:layout_width="match_parent" android:layout_height="56dp"
+            android:layout_marginTop="24dp" android:text="Enviar para Revisión" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

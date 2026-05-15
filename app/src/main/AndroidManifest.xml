@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".ServiciosApplication"
+        android:allowBackup="true"
+        android:label="ServiciosApp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ServiciosApp">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".booking.ChatActivity" />
+        <activity android:name=".booking.ConfirmServiceActivity" />
+        <activity android:name=".booking.PagoSeguroActivity" />
+        <activity android:name=".booking.ProProfileActivity" />
+        <activity android:name=".booking.ServiceInProgressActivity" />
+        <activity android:name=".home.ServiceListActivity" />
+        <activity android:name=".messages.ChatDetailActivity" />
+        <activity android:name=".payment.PaymentMethodsActivity" />
+        <activity android:name=".posts.CreateServicePostActivity" />
+        <activity android:name=".posts.PostDetailActivity" />
+        <activity android:name=".pro.ProMainActivity" />
+        <activity android:name=".pro.ValidationActivity" />
+        <activity android:name=".profile.AddressesActivity" />
+        <activity android:name=".rating.RatingActivity" />
+        <activity android:name=".settings.ConfiguracionActivity" />
+
+    </application>
+</manifest>

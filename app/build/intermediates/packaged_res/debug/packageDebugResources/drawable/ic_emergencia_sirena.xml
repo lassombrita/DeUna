@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    ic_emergencia_sirena.xml — Sirena de Emergencia
+    Vector de la sirena de emergencia para usar como drawable.
+    La Imagen 5 muestra una FOTO REAL de sirena azul de policía.
+    Este vector es el fallback cuando no hay imagen fotográfica disponible.
+
+    NOTA IMPORTANTE PARA PRODUCCIÓN:
+    Reemplaza esta referencia por una imagen fotográfica real:
+      - Añade: res/drawable/img_sirena.png (600x600px, fondo transparente)
+      - En TarjetaEmergencia.kt usa:
+          Image(painter = painterResource(R.drawable.img_sirena), ...)
+      - O con URL usando Coil:
+          AsyncImage(model = "https://tu-api.com/sirena.png", ...)
+
+    Ubicación: app/src/main/res/drawable/ic_emergencia_sirena.xml
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+
+    <!-- Base de la sirena (plataforma negra) -->
+    <path
+        android:pathData="M20,65 C20,62 22.7,60 26,60 L54,60 C57.3,60 60,62 60,65 L60,70 C60,73 57.3,75 54,75 L26,75 C22.7,75 20,73 20,70 Z"
+        android:fillColor="#1A1A2E"/>
+
+    <!-- Cuerpo principal de la sirena (cúpula azul) -->
+    <path
+        android:pathData="M25,60 C25,60 18,50 18,38 C18,24.7 29.5,14 40,14 C50.5,14 62,24.7 62,38 C62,50 55,60 55,60 Z"
+        android:fillColor="#1A56C4"/>
+
+    <!-- Cúpula superior (vidrio azul brillante) -->
+    <path
+        android:pathData="M28,60 C28,60 22,51 22,40 C22,28.95 30.95,20 40,20 C49.05,20 58,28.95 58,40 C58,51 52,60 52,60 Z"
+        android:fillColor="#2563EB"/>
+
+    <!-- Halo externo (glow) -->
+    <path
+        android:pathData="M40,38 m-18,0 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0"
+        android:fillColor="#3B82F6"
+        android:fillAlpha="0.3"/>
+
+    <!-- Núcleo de luz central (punto brillante) -->
+    <path
+        android:pathData="M40,38 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0"
+        android:fillColor="#93C5FD"/>
+
+    <!-- Destellos de luz (rayos) -->
+    <path
+        android:pathData="M40,10 L40,6"
+        android:strokeWidth="2.5"
+        android:strokeColor="#93C5FD"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M55,15 L58,12"
+        android:strokeWidth="2.5"
+        android:strokeColor="#93C5FD"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M65,28 L69,26"
+        android:strokeWidth="2.5"
+        android:strokeColor="#93C5FD"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M25,15 L22,12"
+        android:strokeWidth="2.5"
+        android:strokeColor="#93C5FD"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M15,28 L11,26"
+        android:strokeWidth="2.5"
+        android:strokeColor="#93C5FD"
+        android:strokeLineCap="round"/>
+
+    <!-- Centro blanco de la luz -->
+    <path
+        android:pathData="M40,38 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Pedestal / soporte -->
+    <path
+        android:pathData="M32,60 L48,60 L50,64 L30,64 Z"
+        android:fillColor="#0F172A"/>
+</vector>

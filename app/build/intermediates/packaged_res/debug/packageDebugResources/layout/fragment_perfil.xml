@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8FAFC">
+
+    <ImageButton
+        android:id="@+id/btnSettings"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_margin="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@android:drawable/ic_menu_manage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="#1E293B" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnSettings">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView android:id="@+id/tvNombreUsuario"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textSize="24sp" android:textStyle="bold" android:textColor="#1E293B" />
+
+            <TextView android:id="@+id/tvEmail"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textColor="#64748B" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="24dp" app:cardCornerRadius="12dp">
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="horizontal" android:padding="16dp" android:gravity="center_vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Saldo disponible" android:textSize="12sp" />
+                        <TextView android:id="@+id/tvSaldo"
+                            android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:textSize="20sp" android:textStyle="bold" android:textColor="#1A3A6B" />
+                    </LinearLayout>
+                    <Button android:id="@+id/btnRecargar"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="Recargar" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_marginTop="24dp" android:text="Mis Servicios" android:textStyle="bold" />
+
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="12dp" android:orientation="horizontal">
+                <ImageButton android:id="@+id/iconEnProgreso"
+                    android:layout_width="0dp" android:layout_height="64dp" android:layout_weight="1"
+                    android:src="@android:drawable/ic_menu_today" android:background="@android:color/transparent" />
+            </LinearLayout>
+
+            <TextView android:id="@+id/rowMetodosPago"
+                android:layout_width="match_parent" android:layout_height="56dp"
+                android:layout_marginTop="24dp" android:gravity="center_vertical"
+                android:text="Métodos de pago" />
+
+            <TextView android:id="@+id/rowDirecciones"
+                android:layout_width="match_parent" android:layout_height="56dp"
+                android:gravity="center_vertical"
+                android:text="Direcciones guardadas" />
+
+            <TextView android:id="@+id/rowAyuda"
+                android:layout_width="match_parent" android:layout_height="56dp"
+                android:gravity="center_vertical"
+                android:text="Ayuda y soporte" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

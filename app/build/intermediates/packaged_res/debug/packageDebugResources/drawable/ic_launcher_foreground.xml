@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    ic_launcher_foreground.xml
+    Ícono principal de la app (foreground layer para Adaptive Icon).
+    Basado en la Imagen 1: martillo + llave inglesa en trazo blanco.
+    Ubicación: app/src/main/res/drawable/ic_launcher_foreground.xml
+    Tamaño recomendado del viewport: 108x108 dp (adaptive icon)
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Martillo (parte superior) -->
+    <!-- Cabeza del martillo -->
+    <path
+        android:pathData="M52,28 C52,28 48,24 44,26 C40,28 39,32 41,35 L58,52 L62,48 Z"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Mango del martillo -->
+    <path
+        android:pathData="M58,52 L75,69 C76.5,70.5 76.5,72.5 75,74 C73.5,75.5 71.5,75.5 70,74 L53,57 Z"
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"/>
+
+    <!-- Llave inglesa (parte inferior izquierda) -->
+    <!-- Cabeza de la llave -->
+    <path
+        android:pathData="M38,48 C34,44 33,38 37,34 C38.5,32.5 40.5,32 42,32.5 L46,36.5 L44,38.5 L42,36.5 C41,37.5 41,39.5 43,41.5 L55,53.5 L53,55.5 Z"
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"/>
+
+    <!-- Cuerpo de la llave -->
+    <path
+        android:pathData="M53,55 L68,70"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"/>
+
+    <!-- Anillo inferior de la llave -->
+    <path
+        android:pathData="M64,66 C66,64 69,64 71,66 C73,68 73,71 71,73 C69,75 66,75 64,73 C62,71 62,68 64,66 Z"
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"/>
+
+    <!-- Agujero interior del anillo -->
+    <path
+        android:pathData="M66,68 C66.8,67.2 68.2,67.2 69,68 C69.8,68.8 69.8,70.2 69,71 C68.2,71.8 66.8,71.8 66,71 C65.2,70.2 65.2,68.8 66,68 Z"
+        android:fillColor="#1A56C4"/>
+</vector>
