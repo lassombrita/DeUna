@@ -32,6 +32,9 @@ import com.servicios.app.ui.screens.AddressesBridgeScreen
 import com.servicios.app.ui.screens.PaymentsBridgeScreen
 import com.servicios.app.ui.screens.SplashScreen
 import com.servicios.app.ui.screens.ValidationScreen
+import com.servicios.app.ui.screens.RegisterTypeScreen
+import com.servicios.app.ui.screens.RegisterUserScreen
+import com.servicios.app.ui.screens.RegisterProScreen
 
 @Composable
 fun AppNavGraph(navController: NavHostController) {
@@ -51,6 +54,17 @@ fun AppNavGraph(navController: NavHostController) {
         }
         composable(Ruta.Register.path) {
             RegisterScreen(navController = navController)
+        }
+
+        // NUEVO flujo de registro
+        composable(Ruta.RegistroTipo.path) {
+            RegisterTypeScreen(navController = navController)
+        }
+        composable(Ruta.RegistroUsuario.path) {
+            RegisterUserScreen(navController = navController)
+        }
+        composable(Ruta.RegistroPro.path) {
+            RegisterProScreen(navController = navController)
         }
 
         // --- Main ---

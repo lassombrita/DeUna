@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:text="Configuración"
-            android:textColor="@color/black"
+            android:textColor="#1F2937"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -87,6 +87,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="12dp"
                 android:text="Modo escala de grises"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -95,7 +96,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="Tamaño de texto" />
+                android:text="Tamaño de texto"
+                android:textColor="#1F2937" />
 
             <com.google.android.material.slider.Slider
                 android:id="@+id/sliderTexto"
@@ -126,6 +128,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="English / Inglés"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -151,6 +154,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="Mensajes nuevos"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -160,6 +164,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Actualizaciones de servicios"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -169,6 +174,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Promociones y ofertas"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -178,6 +184,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Resumen por email"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -203,6 +210,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="Compartir ubicación"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -212,6 +220,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Guardar historial de búsqueda"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -245,6 +254,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="Autenticación biométrica"
+                android:textColor="#1F2937"
                 android:textOn=""
                 android:textOff=""
                 app:showText="false" />
@@ -264,7 +274,8 @@
                 android:clickable="true"
                 android:focusable="true"
                 android:paddingVertical="12dp"
-                android:text="Términos y condiciones" />
+                android:text="Términos y condiciones"
+                android:textColor="#1F2937" />
 
             <TextView
                 android:id="@+id/rowPolitica"
@@ -274,7 +285,8 @@
                 android:clickable="true"
                 android:focusable="true"
                 android:paddingVertical="12dp"
-                android:text="Política de privacidad" />
+                android:text="Política de privacidad"
+                android:textColor="#1F2937" />
 
             <TextView
                 android:id="@+id/tvVersion"

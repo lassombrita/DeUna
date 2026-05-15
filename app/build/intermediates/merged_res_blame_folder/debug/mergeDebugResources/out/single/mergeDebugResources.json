@@ -1,178 +1,182 @@
 [
     {
-        "merged": "com.servicios.app-debug-80:/layout_item_sesion.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/item_sesion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_emergencia_sirena.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_emergencia_sirena.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_bottom_sheet_perfil_settings.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_perfil_settings.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_star_filled.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_star_filled.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_plomeria.jpg.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_plomeria.jpg"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_addresses.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_addresses.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_rating.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_rating.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_service_list.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_service_list.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_validation.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_validation.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_item_metodo_pago.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_metodo_pago.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_chat.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_chat.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_payment_methods.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_payment_methods.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_gas.jpg.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_gas.jpg"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_confirm_service.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_confirm_service.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_item_metodo_pago.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/item_metodo_pago.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_service_in_progress.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_service_in_progress.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_bottom_sheet_add_pse.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_add_pse.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_confirm_service.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_confirm_service.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_validation.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_validation.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_carpinteria.jpg.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_carpinteria.jpg"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_sirena.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_sirena.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_fragment_mis_servicios.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/fragment_mis_servicios.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_bg_bubble_user.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\bg_bubble_user.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_cerrajeria.jpeg.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_cerrajeria.jpeg"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_item_conversacion.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_conversacion.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_chat_detail.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_chat_detail.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_item_profesional.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_profesional.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_payment_methods.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_payment_methods.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_configuracion.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_configuracion.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_bottom_sheet_add_card.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_add_card.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_pago_seguro.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_pago_seguro.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_create_service_post.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_create_service_post.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_service_list.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_service_list.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_carpinteria.jpg.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_carpinteria.jpg"
     },
     {
-        "merged": "com.servicios.app-debug-80:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.servicios.app-main-82:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_fragment_service_posts_feed.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_service_posts_feed.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_back.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_back.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_star_empty.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_star_empty.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_item_profesional.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/item_profesional.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_bottom_sheet_add_bank.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_add_bank.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_electricidad.jpeg.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_electricidad.jpeg"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.servicios.app-main-82:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_fragment_perfil.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_perfil.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_item_publicacion.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/item_publicacion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_rating.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_rating.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_pro_profile.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_pro_profile.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_bottom_sheet_perfil_settings.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_perfil_settings.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_bottom_sheet_add_bank.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_add_bank.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_item_direccion.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_direccion.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_bg_bubble_pro.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/bg_bubble_pro.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_gas.jpg.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_gas.jpg"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_item_direccion.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/item_direccion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_chat_detail.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_chat_detail.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_fragment_service_posts_feed.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/fragment_service_posts_feed.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_item_publicacion.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_publicacion.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_fragment_mis_servicios.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_mis_servicios.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_bottom_sheet_add_pse.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_add_pse.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_bottom_sheet_add_card.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_add_card.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_emergencia_sirena.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_emergencia_sirena.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_pintura.jpg.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_pintura.jpg"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_sirena.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_sirena.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_cerrajeria.jpeg.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_cerrajeria.jpeg"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_fragment_mensajes.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/fragment_mensajes.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_plomeria.jpg.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_plomeria.jpg"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_star_empty.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_star_empty.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_item_sesion.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_sesion.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_addresses.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_addresses.xml"
-    },
-    {
-        "merged": "com.servicios.app-debug-80:/layout_activity_pago_seguro.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_pago_seguro.xml"
-    },
-    {
-        "merged": "com.servicios.app-debug-80:/drawable_bg_bubble_user.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/bg_bubble_user.xml"
-    },
-    {
-        "merged": "com.servicios.app-debug-80:/layout_fragment_perfil.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/fragment_perfil.xml"
-    },
-    {
-        "merged": "com.servicios.app-debug-80:/layout_item_conversacion.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/item_conversacion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "com.servicios.app-debug-80:/layout_activity_configuracion.xml.flat",
         "source": "com.servicios.app-main-82:/layout/activity_configuracion.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/layout_activity_create_service_post.xml.flat",
-        "source": "com.servicios.app-main-82:/layout/activity_create_service_post.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_service_in_progress.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_service_in_progress.xml"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_pintura.jpg.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_pintura.jpg"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_electricidad.jpeg.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_electricidad.jpeg"
     },
     {
-        "merged": "com.servicios.app-debug-80:/drawable_ic_star_filled.xml.flat",
-        "source": "com.servicios.app-main-82:/drawable/ic_star_filled.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_pro_profile.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_pro_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_bg_bubble_pro.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\bg_bubble_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_fragment_mensajes.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_mensajes.xml"
+    },
+    {
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-debug-80:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\drawable\\ic_back.xml"
     }
 ]

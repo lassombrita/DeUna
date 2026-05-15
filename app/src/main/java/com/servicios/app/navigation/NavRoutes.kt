@@ -4,8 +4,15 @@ sealed class Ruta(val path: String) {
     // Auth
     object Splash : Ruta("splash")
     object Onboarding : Ruta("onboarding")
-    object Login : Ruta("login")
-    object Register : Ruta("register")
+    object Login        : Ruta("login")
+
+    // Legacy: antiguo registro
+    object Register     : Ruta("register")
+
+    // NUEVO: flujo de registro moderno
+    object RegistroTipo    : Ruta("registro_tipo")
+    object RegistroUsuario : Ruta("registro_usuario")
+    object RegistroPro     : Ruta("registro_pro")
 
     // Main Hub
     object Home : Ruta("home")

@@ -25,7 +25,7 @@ import com.servicios.app.ui.theme.ServiciosAppTheme
 @Composable
 fun OnboardingScreen(navController: NavController) {
     OnboardingContent(
-        onStartClick = { navController.navigate(Ruta.Register.path) },
+        onStartClick = { navController.navigate(Ruta.RegistroTipo.path) },
         onLoginClick = { navController.navigate(Ruta.Login.path) }
     )
 }

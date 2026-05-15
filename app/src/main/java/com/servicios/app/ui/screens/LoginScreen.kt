@@ -84,7 +84,7 @@ fun LoginScreen(navController: NavController) {
         
         Spacer(modifier = Modifier.height(16.dp))
         
-        TextButton(onClick = { navController.navigate(Ruta.Register.path) }) {
+        TextButton(onClick = { navController.navigate(Ruta.RegistroTipo.path) }) {
             Text("¿No tienes cuenta? Regístrate", color = Color.White)
         }
     }

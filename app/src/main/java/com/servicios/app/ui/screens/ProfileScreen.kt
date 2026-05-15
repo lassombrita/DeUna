@@ -217,6 +217,23 @@ fun ProfileScreen(
                         title   = "Configuración",
                         onClick = { navController.navigate(Ruta.Configuracion.path) }
                     )
+
+                    Spacer(modifier = Modifier.height(24.dp))
+                    TextButton(
+                        onClick = {
+                            viewModel.logout()
+                            navController.navigate(Ruta.Login.path) {
+                                popUpTo(Ruta.Splash.path) { inclusive = true }
+                            }
+                        },
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text(
+                            text = "Cerrar sesión",
+                            color = Color.Red,
+                            fontWeight = FontWeight.SemiBold
+                        )
+                    }
                 }
             }
         }

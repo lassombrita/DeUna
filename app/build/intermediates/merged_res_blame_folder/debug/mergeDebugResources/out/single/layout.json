@@ -1,110 +1,114 @@
 [
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_payment_methods.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_payment_methods.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_validation.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_validation.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_pro_profile.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_pro_profile.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\fragment_mensajes.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_mensajes.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/item_publicacion.xml",
-        "source": "com.servicios.app-main-82:/layout/item_publicacion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\item_publicacion.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_publicacion.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_rating.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_rating.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_configuracion.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_configuracion.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_service_in_progress.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_service_in_progress.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_confirm_service.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_confirm_service.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_pago_seguro.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_pago_seguro.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\fragment_service_posts_feed.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_service_posts_feed.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/item_direccion.xml",
-        "source": "com.servicios.app-main-82:/layout/item_direccion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\bottom_sheet_add_card.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_add_card.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/bottom_sheet_add_pse.xml",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_add_pse.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_payment_methods.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_payment_methods.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/fragment_perfil.xml",
-        "source": "com.servicios.app-main-82:/layout/fragment_perfil.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\item_profesional.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_profesional.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_confirm_service.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_confirm_service.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\item_metodo_pago.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_metodo_pago.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_chat.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_chat.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\bottom_sheet_add_pse.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_add_pse.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/fragment_mensajes.xml",
-        "source": "com.servicios.app-main-82:/layout/fragment_mensajes.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_pro_profile.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_pro_profile.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/fragment_service_posts_feed.xml",
-        "source": "com.servicios.app-main-82:/layout/fragment_service_posts_feed.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_create_service_post.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_create_service_post.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/item_sesion.xml",
-        "source": "com.servicios.app-main-82:/layout/item_sesion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_service_list.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_service_list.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/item_conversacion.xml",
-        "source": "com.servicios.app-main-82:/layout/item_conversacion.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_addresses.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_addresses.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/bottom_sheet_add_bank.xml",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_add_bank.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\item_sesion.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_sesion.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/bottom_sheet_perfil_settings.xml",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_perfil_settings.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\fragment_perfil.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_perfil.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_create_service_post.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_create_service_post.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_chat_detail.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_chat_detail.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_chat_detail.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_chat_detail.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_rating.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_rating.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/bottom_sheet_add_card.xml",
-        "source": "com.servicios.app-main-82:/layout/bottom_sheet_add_card.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_pago_seguro.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_pago_seguro.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/fragment_mis_servicios.xml",
-        "source": "com.servicios.app-main-82:/layout/fragment_mis_servicios.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\fragment_mis_servicios.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\fragment_mis_servicios.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_addresses.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_addresses.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\bottom_sheet_add_bank.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_add_bank.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_service_list.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_service_list.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\item_direccion.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_direccion.xml"
+    },
+    {
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\item_conversacion.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\item_conversacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_chat.xml"
     },
     {
         "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_configuracion.xml",
         "source": "com.servicios.app-main-82:/layout/activity_configuracion.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/item_metodo_pago.xml",
-        "source": "com.servicios.app-main-82:/layout/item_metodo_pago.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\bottom_sheet_perfil_settings.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\bottom_sheet_perfil_settings.xml"
     },
     {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/item_profesional.xml",
-        "source": "com.servicios.app-main-82:/layout/item_profesional.xml"
-    },
-    {
-        "merged": "com.servicios.app-mergeDebugResources-79:/layout/activity_validation.xml",
-        "source": "com.servicios.app-main-82:/layout/activity_validation.xml"
+        "merged": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-mergeDebugResources-79:\\layout\\activity_service_in_progress.xml",
+        "source": "C:\\Users\\merej\\.gradle\\daemon\\9.5.0\\com.servicios.app-main-82:\\layout\\activity_service_in_progress.xml"
     }
 ]
